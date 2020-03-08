@@ -1,0 +1,6 @@
+- Init project: `composer create-project symfony/website-skeleton sf-todo-app`
+- Add encore: `composer require encore`
+- `yarn add react react-dom prop-types`
+- `yarn add @babel/preset-react@^7.0.0 --dev`
+- `symfony server:start`
+- `yarn encore dev --watch`
